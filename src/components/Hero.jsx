@@ -2,8 +2,7 @@ import { StarsBackground } from '@/components/animate-ui/components/backgrounds/
 import { FaPaperPlane, FaDownload } from "react-icons/fa";
 import TypingDesignation from './TypingEffect';
 import SocialIcons from './SocialIcons';
-import LottieDeveloper from './animations/lottiedev';
-
+import LottieDeveloper from './animations/Lottiedev'
 const Hero = () => {
   return (
     <div className="relative w-full h-screen overflow-hidden">

@@ -1,7 +1,7 @@
 import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 import LottiePerson from "./animations/LottiePerson";
 import AboutBadges from "./AboutBadges";
-import TechStack from "./techStack";
+import TechStack from "./TechStack";
 import ToolsSection from "./Tools";
 import { useNavigate } from "react-router-dom";
 
